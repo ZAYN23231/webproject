@@ -1,0 +1,118 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.badg {
+  height: 30px;
+  margin-right: 20px;
+}
+
+.mostPopular,
+.recentlyAdded,
+.authorOfTheMonth {
+  margin: 40px 30px;
+}
+.topRow {
+  margin: 10px 0;
+}
+
+.aom {
+  padding: 50px 30px;
+}
+
+.aom-btn {
+  margin-left: 20px;
+}
+
+.finput {
+  width: 309px !important;
+  display: inline;
+  margin: auto !important;
+}
+
+.product a {
+  text-decoration: none;
+  color: black;
+}
+
+.img-para {
+  height: 300px;
+  margin: auto;
+}
+
+.product_banner {
+  max-height: 500px;
+  margin: auto;
+}
+
+.book_name {
+  font-size: 40px !important;
+}
+
+.book-author,
+.price {
+  font-size: 20px;
+}
+
+.book_objective {
+  color: gray;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.quantityForm {
+  width: 50px;
+  text-align: center;
+}
+
+.btn-qtn {
+  width: 40px;
+  height: 28px;
+  border: none;
+  background-color: rgb(1, 104, 151);
+  color: antiquewhite;
+  border-radius: 5px;
+}
+
+tr,
+th,
+td {
+  border: 1px solid #ddd;
+  padding-left: 15px !important;
+}
+
+.detailsTable {
+  margin: 50px 0px;
+}
+
+.contactus-heading,
+.missiontext {
+  font-size: 30px;
+}
+
+.aboutBody {
+  margin: 0 80px;
+}
+
+.forgetPassword a {
+  text-decoration: none;
+  color: gray;
+}
+
+.message {
+  display: none;
+}
+
+.athorization {
+  color: wheat;
+}
+.logout {
+  color: coral;
+  cursor: pointer;
+}
+.login {
+  color: coral;
+  cursor: pointer;
+}
